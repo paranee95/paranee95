@@ -3,11 +3,15 @@
 <p align="center">
     <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 </p>
-<br>
+</br>
+
 <h3 align="center">Student at Open University of Sri Lanka.</h3>
 </br>
+
 ![logo](https://github.com/paranee95/paranee95/blob/main/Banner.png)
+
 </br>
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=paranee95&label=Profile%20views&color=0e75b6&style=flat" alt="paranee95" /> 
 </p>
